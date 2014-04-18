@@ -2,7 +2,7 @@
 Contributors: aarontgrogg
 Tags: body, admin, class
 Requires at least: 3.1
-Tested up to: 3.5
+Tested up to: 3.9
 Stable tag: 1.1
 
 
