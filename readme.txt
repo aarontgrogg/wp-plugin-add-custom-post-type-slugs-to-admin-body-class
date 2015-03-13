@@ -2,11 +2,11 @@
 Contributors: aarontgrogg
 Tags: body, admin, class
 Requires at least: 3.1
-Tested up to: 3.5
-Stable tag: 1.1
+Tested up to: 4.1.1
+Stable tag: 1.2
 
 
-Add Custom Post Type Slugs to Admin `body` Class
+Add Custom Post Type Slugs to Admin `&lt;body&gt;` Class
 
 
 == Description ==
@@ -28,8 +28,6 @@ This allows you to write custom CSS and JS to interact with these varying edit p
 
 Please let me know if you have any questions/suggestions/thoughts,
 Atg
-http://aarontgrogg.com/
-aarontgrogg@gmail.com
 
 
 == Installation ==
@@ -52,6 +50,10 @@ aarontgrogg@gmail.com
 
 == Changelog ==
 
+= 1.2 =
+2015-03-13:
+* Slight mod to make this only run in admin pages, and makes sure it is a posts list page
+
 = 1.0 =
 2012-02-24:
-Well, this is the first version, so... here it is!
+* Well, this is the first version, so... here it is!
